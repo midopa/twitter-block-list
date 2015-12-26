@@ -3,6 +3,10 @@ shared block list for twitter to stop promoted tweets
 
 this is mainly meant to block as much promoted tweets as possible. you can use adblocker on a desktop/laptop, but on mobile it's harder to block this stuff. so that's where this block list would come in handy.
 
+## "philosophy"
+
+the only motivation with this list is to remove any promoted/suggested tweets. no affliations or whatever. that said, blocking personal accounts is not advised for a shared list, unless that personal account uses tweet promotion.
+
 ## how to import
 
 1. download the csv file
@@ -23,6 +27,8 @@ this is mainly meant to block as much promoted tweets as possible. you can use a
 3. click export list
 4. click export
 5. done
+
+NOTE! take care not to mix your blocked personal accounts into this block list. see "philosophy"
 
 ## how to contribute
 
