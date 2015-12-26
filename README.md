@@ -12,6 +12,7 @@ this is mainly meant to block as much promoted tweets as possible. you can use a
 5. select the downloaded block list file
 6. click preview
 7. the website will show you what twitter accounts will be added to your block list. note that if there's no change, then it will say there's nothing to add, in which case you're done.
+8. NOTE! do a quick scan of the accounts that will be blocked. make sure there aren't any that you actually want to see/follow!
 8. click done
 9. done
 
@@ -29,7 +30,3 @@ this is mainly meant to block as much promoted tweets as possible. you can use a
 2. add your stuff
 3. commit
 4. send pull request
-
-## todos
-
-1. there needs to be a way to spot check the accounts. as it is, twitter exports them as a list of account ids, which is not human readable.
